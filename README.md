@@ -18,7 +18,7 @@
 - Chi-square Test
 - 2 Proportion Test
 
-## Sample Web
+## Dash board Web
 ![homepage](https://user-images.githubusercontent.com/45709140/137072230-2b258150-8b4d-4c2a-b26f-85f7feb0b772.png)
 
 ***
